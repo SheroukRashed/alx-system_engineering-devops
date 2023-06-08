@@ -1,1 +1,2 @@
-find / -exec file {} \; | grep "SCHOOL"
+string SCHOOL thisisaschoolfile:
+!: mime School
