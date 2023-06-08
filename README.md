@@ -1,0 +1,1 @@
+Common shortcuts for Bash
