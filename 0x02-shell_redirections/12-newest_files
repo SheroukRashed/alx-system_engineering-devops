@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pAtls | grep -v / | head -3
+ls -pAtls | grep -v / | head -10
